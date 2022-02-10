@@ -4,7 +4,6 @@
 ~~(구)가천대 소프트웨어학과 19학번~~ <br>
 Problem Solving이 취미이며, 현재 프론트앤드, 백앤드, 인공지능 등 다양한 분야를 공부하고 있습니다. 
 - 🌱 Tech Stack ...
-<hr>
 <div align=center>
 <h4>Advanced</h4><br>
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
