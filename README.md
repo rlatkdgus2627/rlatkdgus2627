@@ -21,9 +21,8 @@ Problem Solving이 취미이며, 현재 프론트앤드, 백앤드, 인공지능
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><br>
 </div>
-### solved.ac 티어
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatkdgus2627)](https://solved.ac/rlatkdgus2627)
+- 💡 solved.ac 티어
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatkdgus2627)](https://solved.ac/rlatkdgus2627)
 
 - 💬 Ask me about ... 
 귀찮아서 나중에 추가예정, 영어 설명도 추가해야 하는데 아....
