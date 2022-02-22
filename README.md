@@ -26,5 +26,10 @@ Problem Solving이 취미이며, 현재 프론트앤드, 백앤드, 인공지능
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatkdgus2627)](https://solved.ac/rlatkdgus2627)
 
+- 📊 github stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlatkdgus2627&show_icons=true&theme=prussian)](https://github.com/rlatkdgus2627/github-readme-stats)
+
 - 💬 Ask me about ... 
+
 귀찮아서 나중에 추가예정, 영어 설명도 추가해야 하는데 아....
