@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=rlatkdgus2627's%20github&fontSize=40)
 - 🔭 Introduce myself ... <br>
+현재 통신병으로 군복무 중 2022/5/9 ~ 2023/11/8 <br>
 동국대학교 20학번 컴퓨터공학전공 학생입니다. <br>
 ~~(구)가천대 소프트웨어학과 19학번~~ <br>
 Problem Solving이 취미이며, 현재 프론트앤드, 백앤드, 인공지능 등 다양한 분야를 공부하고 있습니다. 
