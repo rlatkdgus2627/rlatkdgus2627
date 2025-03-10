@@ -32,5 +32,5 @@ I am studying various fields including Problem Solving, Backend Development, and
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlatkdgus2627&show_icons=true&theme=prussian)](https://github.com/rlatkdgus2627/github-readme-stats)
 
-- 💬 Ask me about ... 
+- 💬 주요 경력 및 프로젝트 ...         
 2024 ICPC Seoul Regional 본선 진출
