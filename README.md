@@ -36,4 +36,5 @@ I am studying various fields including Problem Solving, Backend Development, and
 🥈 2024 ICPC Seoul Regional 본선 진출    
 👨‍💼 RVC를 이용한 음성 교정 서비스 (https://github.com/CSID-DGU/2024-01-CSC4004-03-OYes)   
 💊 flask를 이용한 백신 접종 주기 계산 서비스 (https://github.com/rlatkdgus2627/db_flask_project)   
-🔥 YOLOv9를 최적화하여 화재 감지 모델 개발 (https://github.com/Monggu-Park/fire-detection)
+🔥 YOLOv9를 최적화하여 화재 감지 모델 개발 (https://github.com/Monggu-Park/fire-detection)     
+😀 소프트웨어 마에스트로 16기 연수생 (2025.4 ~)
