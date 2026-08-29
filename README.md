@@ -1,6 +1,6 @@
 # rlatkdgus2627
 ## 🔭 Introduce myself 
-동국대학교 20학번 컴퓨터공학전공 (2020.3 ~ 2026.2 졸업 예정)<br>
+동국대학교 20학번 컴퓨터공학전공 (2020.03 ~ 2027.02 졸업 예정), 학점 4.15 / 4.5<br>
 Problem Solving, 백앤드, LLM 등 다양한 분야를 공부하고 있습니다.<br><br>
 Computer Engineering major, class of '20 at Dongguk University<br>
 (expected to graduate from March 2020 to February 2026)<br>
@@ -28,9 +28,18 @@ I am studying various fields including Problem Solving, Backend Development, LLM
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatkdgus2627)](https://solved.ac/rlatkdgus2627)
 
-## 👨‍💻 경력 및 프로젝트        
-🥈 2024 ICPC Seoul Regional 본선 진출    
+## 👨‍💻 수상 및 프로젝트
+🏆 제2회 동국대학교 교내 프로그래밍 경진대회 금상(1위)
+🥈 2024 ICPC Seoul Regional 본선 진출
+🥈 제3회 동국대학교 교내 프로그래밍 경진대회 은상(4위)
 👨‍💼 RVC를 이용한 음성 교정 서비스 (https://github.com/CSID-DGU/2024-01-CSC4004-03-OYes)   
 💊 flask를 이용한 백신 접종 주기 계산 서비스 (https://github.com/rlatkdgus2627/db_flask_project)   
 🔥 YOLOv9를 최적화하여 화재 감지 모델 개발 (https://github.com/Monggu-Park/fire-detection)     
-😀 소프트웨어 마에스트로 16기 연수생 (2025.4 ~)
+😀 소프트웨어 마에스트로 16기 연수생 (2025.4 ~ 2025.12)
+
+## 🪪 자격증
+- SQLD
+- ADsP
+- TOPCIT 4수준
+- AWS Solutions Architect Associate
+- 삼성 SW 역량테스트 B형
