@@ -28,10 +28,6 @@ I am studying various fields including Problem Solving, Backend Development, LLM
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatkdgus2627)](https://solved.ac/rlatkdgus2627)
 
-## 📊 github stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlatkdgus2627&show_icons=true&theme=prussian)](https://github.com/rlatkdgus2627/github-readme-stats)
-
 ## 👨‍💻 경력 및 프로젝트        
 🥈 2024 ICPC Seoul Regional 본선 진출    
 👨‍💼 RVC를 이용한 음성 교정 서비스 (https://github.com/CSID-DGU/2024-01-CSC4004-03-OYes)   
